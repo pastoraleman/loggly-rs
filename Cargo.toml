@@ -2,6 +2,12 @@
 name = "loggly"
 version = "0.1.0"
 authors = ["pastoraleman <pastoraleman@users.noreply.github.com>"]
+description = "Unofficial Rust library for the Loggly API"
+repository = "https://github.com/pastoraleman/loggly-rs"
+readme = "README.md"
+keywords = ["loggly"]
+license = "MIT"
+license-file = "LICENSE"
 
 [dependencies]
 hyper = "^0.9.1"

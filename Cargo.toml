@@ -1,0 +1,8 @@
+[package]
+name = "loggly"
+version = "0.1.0"
+authors = ["pastoraleman <pastoraleman@users.noreply.github.com>"]
+
+[dependencies]
+hyper = "^0.9.1"
+rustc-serialize = "^0.3.19"

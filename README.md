@@ -1,6 +1,8 @@
 # loggly-rs
 Unofficial Rust library for the Loggly API
 
+[![crates.io](http://meritbadge.herokuapp.com/loggly)](https://crates.io/crates/loggly)
+[https://docs.rs/loggly/badge.svg](https://docs.rs/loggly)
 [![Build Status](https://travis-ci.org/pastoraleman/loggly-rs.svg?branch=master)](https://travis-ci.org/pastoraleman/loggly-rs)
 
 loggly-rs implements an HTTPS Event Endpoint for sending messages to the Loggly RESTful API.
@@ -16,6 +18,10 @@ loggly = "0.1.0"
 ## Build Dependencies
 
 This library utilises [hyper](https://crates.io/crates/hyper), which in turn requires the OpenSSL headers to be available during compilation. For more information on how to configure OpenSSL, see: [rust-openssl](https://github.com/sfackler/rust-openssl).
+
+## Documentation
+
+Documentation can be found at the official documentation repository: https://docs.rs/loggly
 
 ## Example
 

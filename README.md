@@ -2,7 +2,7 @@
 Unofficial Rust library for the Loggly API
 
 [![crates.io](http://meritbadge.herokuapp.com/loggly)](https://crates.io/crates/loggly)
-[https://docs.rs/loggly/badge.svg](https://docs.rs/loggly)
+[(https://docs.rs/loggly/badge.svg)](https://docs.rs/loggly)
 [![Build Status](https://travis-ci.org/pastoraleman/loggly-rs.svg?branch=master)](https://travis-ci.org/pastoraleman/loggly-rs)
 
 loggly-rs implements an HTTPS Event Endpoint for sending messages to the Loggly RESTful API.

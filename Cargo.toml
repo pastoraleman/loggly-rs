@@ -1,9 +1,9 @@
 [package]
 name = "loggly"
 version = "0.1.0"
-authors = ["pastoraleman <pastoraleman@users.noreply.github.com>"]
+authors = ["pwrdwnsys <pwrdwnsys@users.noreply.github.com>"]
 description = "Unofficial Rust library for the Loggly API"
-repository = "https://github.com/pastoraleman/loggly-rs"
+repository = "https://github.com/pwrdwnsys/loggly-rs"
 readme = "README.md"
 keywords = ["loggly"]
 license = "MIT"

@@ -1,4 +1,7 @@
 # loggly-rs
+
+**NOTE: This library is unmaintained and has now been archived.**
+
 Unofficial Rust library for the Loggly API
 
 [![crates.io](http://meritbadge.herokuapp.com/loggly)](https://crates.io/crates/loggly)
